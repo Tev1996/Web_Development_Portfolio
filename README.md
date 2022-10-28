@@ -1,4 +1,4 @@
-# Web_Development_Portfolio
+# Web_Development
 
 ## Web Development Bootcamp (HTML&CSS)
 These are the projects that I have completed while attending FreeCodeCamp 6 weeks development bootcamp learning:
