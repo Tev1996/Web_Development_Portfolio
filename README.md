@@ -11,6 +11,8 @@ CSS layout tools: positioning elements with CSS Flexbox and CSS grid.
   
   1. [Build a Tribute Page]()
 
+<img src="fela_jumbotron.jpg" widith="300" height="300">
+
   2. [Build a Survey Form]()
 
   3. [Build a Product Landing Page]()
