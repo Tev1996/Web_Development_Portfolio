@@ -1,4 +1,11 @@
-# Web_Development
+I am a Web Developer currently located in Statesboro,Georgia. This is my personal portfolio website that showcases my experience, education, recent projects, technical skill stack, contact information, and a little bit more about me.
+
+You can view my full portfolio at:
+
+
+
+
+
 
 ## Web Development Bootcamp (HTML&CSS)
 These are the projects that I have completed while attending FreeCodeCamp 6 weeks development bootcamp learning:
