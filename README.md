@@ -27,11 +27,10 @@ CSS layout tools: positioning elements with CSS Flexbox and CSS grid.
 
   2. [Build a Survey Form](https://github.com/Tev1996/Web_Development_Portfolio/blob/main/survey.html)
   
-  <img src="https://github.com/Tev1996/Web_Development_Portfolio/blob/main/Screenshot%20(2).png" widith="300" height="300">
 
   3. [Build a Product Landing Page]()
 
-  4. [Build a Technical Documentation Page]()
+  4. [Random Quote Generator](https://codepen.io/tev96/pen/rNKMyoa)
 
   5. [Build a Personal Portfolio Webpage]()
 
