@@ -2,12 +2,17 @@ I am a Web Developer currently located in Statesboro,Georgia. This is my persona
 
 You can view my full portfolio at:
 
+## About Me
 
 
+Before transitioning into web and software development, I worked as a team lead in a warewhouse in Port Wentworth, Georgia. While in the industry I found myself enjoying the technical and computer driven aspects of the office which lead me to follow my true passion for front-end and back-end development.
+
+My management position bring a fresh prospective to techincal and leaderships roles as it showcases my detailed oriented and organizational skills in any job I perform.
+
+## Recent Projects & Achievements
 
 
-
-## Web Development Bootcamp (HTML&CSS)
+### Web Development Bootcamp (HTML&CSS)
 These are the projects that I have completed while attending FreeCodeCamp 6 weeks development bootcamp learning:
 HTML fundamentals: syntax, elements, images, links, lists, forms, buttons.
 CSS: selectors, classes, ids, attributes, fonts, colors, sizing, positioning.
@@ -51,3 +56,20 @@ Functional programming: terminology, constraints, mapping, filtering.
 4. [Telephone Number Validator]()
 
 5. [Cash Register]()
+
+## Techinical Skill Stack
+
+### Front End
+
+`HTML` `CSS` `JavaScript` `Typescript` `React ` `JQuery` `Bootstrap` 
+
+### Back End
+
+`Node.js`  `MongoDB` `SQLite` `PostgreSQL` `Golang` `Python`
+
+
+### Office
+
+`Microsoft Office` `Word` `Excel` `PowerPoint` `Adobe`
+
+
