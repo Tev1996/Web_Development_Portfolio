@@ -54,7 +54,8 @@ Functional programming: terminology, constraints, mapping, filtering.
 
 4. [Telephone Number Validator]()
 
-5. [Cash Register]()
+5. [Random Quote Generator](https://codepen.io/tev96/pen/rNKMyoa)
+
 
 ## Techinical Skill Stack
 
