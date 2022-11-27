@@ -35,17 +35,12 @@ CSS layout tools: positioning elements with CSS Flexbox and CSS grid.
   [View Demo](https://codepen.io/tev96/pen/rNKMyGX)
   
 
-  3. [Build a Product Landing Page]()
-
-  4. Random Quote Generator
+  3. Magazine
   
   <img src="Magazine.png" widith="300" height="300">
   
   [View Demo]()
   
- 
-
-  5. [Build a Personal Portfolio Webpage]()
 
 
 # Javascript Bootcamp
@@ -59,15 +54,7 @@ Functional programming: terminology, constraints, mapping, filtering.
 
 ##  Projects
 
-1. [Palindrome Checker]()
-
-2. [Roman Numeral Converter]()
-
-3. [Caesars Cipher]()
-
-4. [Telephone Number Validator]()
-
-5.  <strong>Building a Magazine</strong>
+1.  <strong>Random Quote Generator</strong>
 
    <img src="Random_Quotes.png" widith="300" height="300">
    
