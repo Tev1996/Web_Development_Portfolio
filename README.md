@@ -60,6 +60,12 @@ Functional programming: terminology, constraints, mapping, filtering.
    
   
    [View Demo](https://codepen.io/tev96/pen/rNKMyoa)
+   
+2. <strong>Tip Caculator</strong>
+
+   <img src="tip_caculator.png" widith="300" height="300">
+   
+   [View Demo](https://codepen.io/tev96/pen/vYJJzRO)
 
 
 ## Techinical Skill Stack
