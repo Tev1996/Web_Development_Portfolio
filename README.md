@@ -39,6 +39,10 @@ CSS layout tools: positioning elements with CSS Flexbox and CSS grid.
 
   4. Random Quote Generator
   
+  <img src="Magazine.png" widith="300" height="300">
+  
+  [View Demo]()
+  
  
 
   5. [Build a Personal Portfolio Webpage]()
