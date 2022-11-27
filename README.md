@@ -21,10 +21,13 @@ CSS layout tools: positioning elements with CSS Flexbox and CSS grid.
 
 ## Projects
   
-  1. [Build a Tribute Page](https://codepen.io/tev96/pen/rNKMLyv)
+  1. <strong>Tribute  Page<strong>
 
 <img src="fela_jumbotron.jpg" widith="300" height="300">
 
+  [View Demo](https://codepen.io/tev96/pen/rNKMLyv)
+  
+  
   2. [Build a Survey Form](https://github.com/Tev1996/Web_Development_Portfolio/blob/main/survey.html)
   
 
