@@ -37,7 +37,9 @@ CSS layout tools: positioning elements with CSS Flexbox and CSS grid.
 
   3. [Build a Product Landing Page]()
 
-  4. [Random Quote Generator](https://codepen.io/tev96/pen/rNKMyoa)
+  4. Random Quote Generator
+  
+ 
 
   5. [Build a Personal Portfolio Webpage]()
 
@@ -61,7 +63,12 @@ Functional programming: terminology, constraints, mapping, filtering.
 
 4. [Telephone Number Validator]()
 
-5. [Random Quote Generator](https://codepen.io/tev96/pen/rNKMyoa)
+5.  <strong>Building a Magazine</strong>
+
+   <img src="Random_Quotes.png" widith="300" height="300">
+   
+  
+   [View Demo](https://codepen.io/tev96/pen/rNKMyoa)
 
 
 ## Techinical Skill Stack
