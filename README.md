@@ -39,7 +39,7 @@ CSS layout tools: positioning elements with CSS Flexbox and CSS grid.
   
   <img src="Magazine.png" widith="300" height="300">
   
-  [View Demo]()
+  [View Demo](https://codepen.io/tev96/pen/poKKqde)
   
 
 
