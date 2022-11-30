@@ -67,6 +67,11 @@ Functional programming: terminology, constraints, mapping, filtering.
    
    [View Demo](https://codepen.io/tev96/pen/vYJJzRO)
 
+3. <strong>Stop Watch</strong>
+
+    <img src="stop_watch.png" widith="300" height="300">
+    
+    [View Demo](https://codepen.io/tev96/pen/zYaJojM)
 
 ## Techinical Skill Stack
 
