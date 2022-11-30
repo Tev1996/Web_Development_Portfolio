@@ -75,7 +75,7 @@ Functional programming: terminology, constraints, mapping, filtering.
 
 4. <strong>Tic Tac Toe</strong>
 
-  <img src="" widith="300" height="300">
+  <img src="tic_tac_toe.png" widith="300" height="300">
   
   [View Demo](https://codepen.io/tev96/pen/VwdGmRv)
   
