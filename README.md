@@ -73,6 +73,12 @@ Functional programming: terminology, constraints, mapping, filtering.
     
     [View Demo](https://codepen.io/tev96/pen/zYaJojM)
 
+4. <strong>Tic Tac Toe</strong>
+
+  <img src="" widith="300" height="300">
+  
+  [View Demo](https://codepen.io/tev96/pen/VwdGmRv)
+  
 ## Techinical Skill Stack
 
 ### Front End
